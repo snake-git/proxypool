@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://github.com/snake-git/proxypool/tree/master/config/source.yaml
