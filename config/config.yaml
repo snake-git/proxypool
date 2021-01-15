@@ -10,7 +10,7 @@ cf_key: ""
 
 # source definition file
 source-files:
-  # use local file
+  use local file
   - source.yaml
   # use web file
   - https://github.com/snake-git/proxypool/tree/master/config/source.yaml
